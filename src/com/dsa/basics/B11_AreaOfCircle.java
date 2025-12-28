@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class B11_AreaOfCircle {
 
+	/*
+	 Time Complexity: O(1)
+	 Auxiliary Space: O(1)
+	 
+	 - Area calculation uses a constant number of arithmetic operations
+	 - No additional memory is allocated based on input size
+	*/
 
 	static double calculateArea_m1(int radius) {
 		
