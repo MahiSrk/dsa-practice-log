@@ -23,7 +23,7 @@ public class A01_ArrayInsertion {
 		}
 		//print
 
-		System.out.println("==---------------------==");
+		System.out.println("--------------------------------------");
 		
 		System.out.println("At which position you want to enter an element");
 		int pos = sc.nextInt();
