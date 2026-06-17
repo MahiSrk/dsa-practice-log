@@ -15,6 +15,8 @@ public class B18_SumOfN {
 		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Enter number: ");
 		int n = sc.nextInt();
 
 		System.out.println(sumOfN(n));
