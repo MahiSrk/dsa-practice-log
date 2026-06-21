@@ -21,9 +21,9 @@ public class A09_BinarySerarch {
 //			end=mid-1;
 //			mid = (start+end)/2;
 //		}
-//		else if(start == end) {
+//		/*else if(start == end) {
 //			System.out.println("Element is not present");
-//			}
+//			} */
 //		if(arr[mid]==key) {
 //			System.out.println("your key "+ arr[mid] +" index number is " + (mid+1));
 //			break;
