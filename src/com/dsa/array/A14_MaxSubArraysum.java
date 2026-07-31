@@ -94,7 +94,7 @@ public class A14_MaxSubArraysum {
 		
 		System.out.println(maxSubarraySum(arr));
 		
-		System.out.println("-------------------------below is kedens algo -------------------------");
+		System.out.println("-------------------------below is kadane's algo -------------------------");
 		
 		System.out.println(maxSubArraySumKedensAlgo(arr));
 		
